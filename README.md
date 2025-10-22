@@ -33,11 +33,11 @@ java DecryptReconstruct   <your file.meta.properties>  <output new_file>
 ```
 Enter the password and your file will be reconstructed.
 
-Supported File Types
+## Supported File Types
 
 This method works for any binary or text file, because the program reads and writes in byte streams.
 
-##✅ Supported examples:
+### ✅ Supported examples:
 
 .txt, .pdf, .docx
 
